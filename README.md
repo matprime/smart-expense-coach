@@ -1,6 +1,8 @@
-# Welcome to Your Miaoda Project
+# Welcome to Smart Expense Coach Project
+Demo is avaliable at https://app-bhcmjfv38p35.appmedo.com/
 
 ## Project Info
+I wanted to make AI genuinely useful for everyday financial decisions. The spark was simple: every time a bill lands in my hands, I should be able to snap a photo, drop it into an app, and get instant AI-powered recommendations on how to optimize that expense. No manual entry, no spreadsheets, no friction—just AI turning raw data into actionable insight that actually saves money.
 
 ## Project Directory
 
